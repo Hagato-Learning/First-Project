@@ -4,6 +4,7 @@ Target i wanna achieve :
   -.if.. else
   -.match..case
   -.round
+  -.Int
 
 3. be able to speak chinese
 -. zhe shi shen me a ?
