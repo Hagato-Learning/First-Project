@@ -3,5 +3,7 @@ Target i wanna achieve :
 2. understand python basic
   -.if.. else
   -.match..case
+  -.round
 
 3. be able to speak chinese
+-. zhe shi shen me a ?
