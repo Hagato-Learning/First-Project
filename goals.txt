@@ -7,4 +7,4 @@ Target i wanna achieve :
   -.Int
 
 3. be able to speak chinese
--. zhe shi shen me a ?
+-. 这是什么啊 ? (Zhè shì shénme a ?)
